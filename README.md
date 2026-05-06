@@ -6,16 +6,21 @@ SQL analysis project on India General Election 2024 dataset using SQL Server.
 
 This project analyzes India General Election 2024 data using SQL Server Management Studio (SSMS).
 
-The project includes:
+📊 Key Analysis Performed
+Total seats won by each party
+State-wise election results
+Top winning candidates
+Margin analysis
+Vote percentage calculations
+Ranking using window functions
 
-Data exploration
-Party-wise analysis
-Candidate analysis
-State-wise insights
-Vote calculations
-SQL joins and aggregations
-Window functions
-
+🧠 SQL Concepts Used
+JOIN
+GROUP BY
+CTE
+Window Functions
+CASE Statements
+Aggregate Functions
 🛠 Tools Used
 SQL Server Management Studio (SSMS)
 SQL
