@@ -21,6 +21,7 @@ CTE
 Window Functions
 CASE Statements
 Aggregate Functions
+
 🛠 Tools Used
 SQL Server Management Studio (SSMS)
 SQL
